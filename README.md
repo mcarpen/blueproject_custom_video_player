@@ -89,7 +89,7 @@ Il faut résoudre cette erreur...
 * Customisation du bouton Play : centrer et le rendre plus "beau"
 * Centrer le lecteur vidéo (horizontalement et verticalement) au milieu de la page en fonction de l'écran utilisé
 > Penser aux unités `vw` et `vh` ;) 
-* Mettre un fond noir sur la page et ajouter une "ombre portée" blanche pour démarquer le bloc
+* Mettre un fond noir sur la page et ajouter une "ombre portée" blanche pour démarquer le bloc (légère ombre pour que ça reste "beau")
 * Manipuler les éléments du lecteur vidéo afin de le customiser au maximum (en utilisant le CSS et l'inspecteur d'élément) tout en gardant un côté esthétique et cohérent entre les éléments
 
 ## Good luck !
