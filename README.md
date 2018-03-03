@@ -9,20 +9,20 @@
 
 ## Initialiser le projet
 
-1.Télécharger/Cloner le projet et l'ouvrir dans le Terminal
+1. Télécharger/Cloner le projet et l'ouvrir dans le Terminal
 
 ```bash
 git clone git@github.com:mcarpen/blueproject_custom_video_player.git blueproject_custom_video_player
 cd blueproject_custom_video_player 
 ```
 
-2.Installer les dépendances du projet
+2. Installer les dépendances du projet
 
 ```bash
 npm install 
 ```
 
-3.Ouvrir l'`index.html` dans votre navigateur préféré
+3. Ouvrir l'`index.html` dans votre navigateur préféré
 
 ## TODO
 
